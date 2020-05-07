@@ -1,0 +1,3 @@
+*/5 * * * * /usr/local/bin/php -q /var/www/cron-process/import-to-file.php
+#*/5 * * * * /usr/local/bin/php -q /var/www/cron-process/import-to-db.php
+# An empty line is required at the end of this file for a valid cron file.

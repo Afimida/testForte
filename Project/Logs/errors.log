@@ -1,0 +1,1261 @@
+create table 2 error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 5
+create table 2 error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 5
+create table 2 error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 5
+Model creator: create table 2 error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+                date_add DATE NOT NULL,
+                FOREIGN KEY (country_id' at line 5
+Model creator: create table 3 error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+                FOREIGN KEY (country_id) REFERENCES country (id) ON DE' at line 4
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+ImportTJRatesFromAPIToDB: insert data Austria error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Austria)' at line 2
+ImportTJRatesFromAPIToDB: insert data Belgium error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Belgium)' at line 2
+ImportTJRatesFromAPIToDB: insert data Bulgaria error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Bulgaria)' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data Cyprus error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Cyprus)' at line 2
+ImportTJRatesFromAPIToDB: insert data Czech Republic error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Republic)
+                    WHERE NOT EXISTS (Select country From countries WH' at line 1
+ImportTJRatesFromAPIToDB: insert data Germany error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Germany)' at line 2
+ImportTJRatesFromAPIToDB: insert data Denmark error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Denmark)' at line 2
+ImportTJRatesFromAPIToDB: insert data Estonia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Estonia)' at line 2
+ImportTJRatesFromAPIToDB: insert data Greece error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Greece)' at line 2
+ImportTJRatesFromAPIToDB: insert data Spain error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Spain)' at line 2
+ImportTJRatesFromAPIToDB: insert data Finland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Finland)' at line 2
+ImportTJRatesFromAPIToDB: insert data France error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = France)' at line 2
+ImportTJRatesFromAPIToDB: insert data Croatia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Croatia)' at line 2
+ImportTJRatesFromAPIToDB: insert data Hungary error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Hungary)' at line 2
+ImportTJRatesFromAPIToDB: insert data Ireland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Ireland)' at line 2
+ImportTJRatesFromAPIToDB: insert data Italy error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Italy)' at line 2
+ImportTJRatesFromAPIToDB: insert data Lithuania error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Lithuania)' at line 2
+ImportTJRatesFromAPIToDB: insert data Luxembourg error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Luxembourg)' at line 2
+ImportTJRatesFromAPIToDB: insert data Latvia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Latvia)' at line 2
+ImportTJRatesFromAPIToDB: insert data Malta error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Malta)' at line 2
+ImportTJRatesFromAPIToDB: insert data Netherlands error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Netherlands)' at line 2
+ImportTJRatesFromAPIToDB: insert data Poland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Poland)' at line 2
+ImportTJRatesFromAPIToDB: insert data Portugal error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Portugal)' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data Sweden error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Sweden)' at line 2
+ImportTJRatesFromAPIToDB: insert data Slovenia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Slovenia)' at line 2
+ImportTJRatesFromAPIToDB: insert data Slovakia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Slovakia)' at line 2
+ImportTJRatesFromAPIToDB: insert data United Kingdom error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Kingdom)
+                    WHERE NOT EXISTS (Select country From countries WHE' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Canada)' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States)
+                    WHERE NOT EXISTS (Select country From countries WHER' at line 1
+ImportTJRatesFromAPIToDB: insert data Romania error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (Select country From countries WHERE country = Romania)' at line 2
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+ImportTJRatesFromAPIToDB: insert data Austria error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Belgium error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Bulgaria error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), SC)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data Cyprus error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Czech Republic error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Republic), )' at line 1
+ImportTJRatesFromAPIToDB: insert data Germany error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Denmark error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Estonia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Greece error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Spain error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Finland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data France error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Croatia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Hungary error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Ireland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Italy error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Lithuania error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Luxembourg error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Latvia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Malta error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Netherlands error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Poland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Portugal error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), NC)' at line 1
+ImportTJRatesFromAPIToDB: insert data Sweden error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Slovenia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Slovakia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data United Kingdom error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Kingdom), )' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), CT)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), DC)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), DE)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), HI)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), IN)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), KY)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), MA)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), MD)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), ME)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), MI)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), ID)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), MT)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), NV)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), NH)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), NJ)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), OR)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), PR)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), RI)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), TN)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), VA)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), NM)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), NY)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), LA)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), IL)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), MS)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), IA)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), AL)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), UT)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), CA)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), WV)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), NE)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), FL)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), VT)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), TX)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), WY)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), WI)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), PA)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), KS)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), AR)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), MO)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), AZ)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), OK)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), MN)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), AK)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), ND)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), WA)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), GA)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), OH)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), CO)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'Canada' in 'where clause'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States), SD)' at line 1
+ImportTJRatesFromAPIToDB: insert data Romania error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Austria error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Belgium error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Bulgaria error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON)
+                    WHERE NOT EXISTS (
+                        SELECT state ' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Cyprus error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Czech Republic error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Germany error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Denmark error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Estonia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Greece error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Spain error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Finland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data France error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Croatia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Hungary error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Ireland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Italy error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Lithuania error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Luxembourg error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Latvia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Malta error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Netherlands error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Poland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Portugal error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Sweden error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Slovenia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data Slovakia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data United Kingdom error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN)
+                    WHERE NOT EXISTS (
+                        SELECT state ' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR)
+                    WHERE NOT EXISTS (
+                        SELECT state ' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE NOT EXISTS (
+                        SELECT state FROM states WHERE state ' at line 2
+ImportTJRatesFromAPIToDB: insert data Romania error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    WHERE NOT EXISTS (
+                        SELECT state FR' at line 1
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+ImportTJRatesFromAPIToDB: insert data Austria error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Belgium error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Bulgaria error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'AB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'BC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'MB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'SC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NU' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'QC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'YT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Cyprus error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Czech Republic error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Germany error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Denmark error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Estonia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Greece error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Spain error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Finland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data France error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Croatia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Hungary error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Ireland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Italy error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Lithuania error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Luxembourg error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Latvia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Malta error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Netherlands error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Poland error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Portugal error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Sweden error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Slovenia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data Slovakia error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data United Kingdom error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'DC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'DE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'HI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'KY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MD' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'ME' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'SK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NV' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NH' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NJ' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'PR' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'RI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'TN' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'VA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NM' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'LA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'IL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'IA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'UT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'PE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WV' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'FL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'VT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'TX' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'PA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'KS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AR' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MO' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AZ' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'OK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MN' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'ND' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'GA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'OH' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CO' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'SD' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Romania error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'AB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'BC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'MB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'SC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NU' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'QC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'YT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'DC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'DE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'HI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'KY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MD' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'ME' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'SK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NV' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NH' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NJ' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'PR' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'RI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'TN' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'VA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NM' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'LA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'IL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'IA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'UT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'PE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WV' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'FL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'VT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'TX' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'PA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'KS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AR' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MO' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AZ' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'OK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MN' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'ND' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'GA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'OH' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CO' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'SD' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'AB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'BC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'MB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'SC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NU' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'QC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'YT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'DC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'DE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'HI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'KY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MD' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'ME' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'SK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NV' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NH' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NJ' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'PR' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'RI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'TN' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'VA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NM' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'LA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'IL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'IA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'UT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'PE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WV' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'FL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'VT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'TX' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'PA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'KS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AR' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MO' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AZ' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'OK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MN' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'ND' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'GA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'OH' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CO' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'SD' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'AB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'BC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'MB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'SC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NU' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON)' at line 1
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'QC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'YT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'DC' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'DE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'HI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'KY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MD' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'ME' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'SK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NV' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NH' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NJ' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR)' at line 1
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'PR' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'RI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'TN' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'VA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NM' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'LA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'IL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'IA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'UT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'PE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WV' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'NE' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'FL' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'VT' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'TX' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WY' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WI' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'PA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'KS' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AR' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MO' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AZ' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'OK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'MN' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'AK' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'ND' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'WA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'GA' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'OH' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'CO' in 'field list'
+ImportTJRatesFromAPIToDB: insert data Canada error -Unknown column 'NB' in 'field list'
+ImportTJRatesFromAPIToDB: insert data United States error -Unknown column 'SD' in 'field list'
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+CSVSaver: File open failed.
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+CSVSaver: File open failed.
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+CSVSaver: Error write.
+CSVSaver: Write error.
+CSVSaver: Write error.
+CSVSaver: Write error.
+CSVSaver: File open failed.
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert rates error -Subquery returns more than 1 row
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='AB' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='BC' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='MB' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='SC' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NS' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NT' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NU' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='ON' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='QC' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='YT' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NC' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='CT' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='DC' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='DE' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='HI' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='IN' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='KY' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='MA' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='MD' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='ME' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='MI' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='ID' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='MT' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='SK' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NV' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NH' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NJ' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='OR' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='PR' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='RI' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='TN' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='VA' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NM' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NY' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='LA' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='IL' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='MS' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='IA' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='AL' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NL' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='UT' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='PE' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='CA' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='WV' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NE' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='FL' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='VT' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='TX' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='WY' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='WI' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='PA' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='KS' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='AR' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='MO' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='AZ' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='OK' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='MN' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='AK' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='ND' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='WA' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='GA' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='OH' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='CO' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='NB' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF((SELECT 1 FROM states WHERE state='SD' AND country_id='(SELECT 1 FROM countri' at line 1
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'AB' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'BC' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'MB' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'SC' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NS' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NT' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NU' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON 
+  FROM dual 
+  WHERE NOT EXISTS
+        ( SELECT *
+          FROM states
+   ' at line 2
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'QC' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'YT' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NC' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'CT' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'DC' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'DE' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'HI' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN 
+  FROM dual 
+  WHERE NOT EXISTS
+        ( SELECT *
+          FROM states
+   ' at line 2
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'KY' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'MA' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'MD' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'ME' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'MI' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'ID' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'MT' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'SK' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NV' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NH' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NJ' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR 
+  FROM dual 
+  WHERE NOT EXISTS
+        ( SELECT *
+          FROM states
+   ' at line 2
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'PR' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'RI' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'TN' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'VA' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NM' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NY' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'LA' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'IL' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'MS' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'IA' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'AL' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NL' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'UT' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'PE' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'CA' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'WV' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NE' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'FL' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'VT' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'TX' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'WY' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'WI' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'PA' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'KS' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'AR' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'MO' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'AZ' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'OK' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'MN' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'AK' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'ND' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'WA' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'GA' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'OH' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'CO' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'NB' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -Unknown column 'SD' in 'field list'
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='AB') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='BC') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='MB') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='SC') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='NS') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='NT') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='NU') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = '(SELECT 1 FR' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='QC') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='YT') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='NC') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='CT') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='DC') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='DE') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='HI') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = '(SELECT 1 FR' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='KY') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='MA') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='MD') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='ME') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='MI') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='ID') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='MT') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='SK') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='NV') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='NH') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='NJ') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = '(SELECT 1 FR' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='PR') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='RI') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='TN') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='VA') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='NM') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='NY') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='LA') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='IL') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='MS') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='IA') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='AL') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='NL') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='UT') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='PE') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='CA') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='WV') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='NE') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='FL') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='VT') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='TX') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='WY') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='WI') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='PA') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='KS') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='AR') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='MO') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='AZ') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='OK') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='MN') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='AK') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='ND') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='WA') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='GA') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='OH') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='CO') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Canada')LIMIT 1' AND state='NB') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'United States')LIMIT 1' AND state='SD') LIMIT 1' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', AB) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', BC) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', MB) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', SC) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', NS) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', NT) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', NU) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', ON) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', QC) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', YT) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', NC) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', CT) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', DC) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', DE) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', HI) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', IN) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', KY) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', MA) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', MD) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', ME) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', MI) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', ID) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', MT) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', SK) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', NV) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', NH) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', NJ) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', OR) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', PR) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', RI) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', TN) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', VA) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', NM) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', NY) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', LA) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', IL) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', MS) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', IA) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', AL) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', NL) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', UT) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', PE) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', CA) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', WV) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', NE) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', FL) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', VT) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', TX) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', WY) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', WI) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', PA) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', KS) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', AR) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', MO) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', AZ) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', OK) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', MN) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', AK) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', ND) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', WA) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', GA) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', OH) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', CO) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') LIMIT 1', NB) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE country = ' at line 1
+SaveTJRatesFromAPIToDB: insert states error -You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'States') LIMIT 1', SD) AS tmp WHERE NOT EXISTS (SELECT id FROM states WHERE coun' at line 1
+Model creator: create table 1 error -Table 'countries' already exists
+Model creator: create table 2 error -Table 'states' already exists
+Model creator: create table 3 error -Table 'rates' already exists

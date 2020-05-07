@@ -1,0 +1,62 @@
+version: '3.3'
+
+services:
+  nginx:
+    image: nginx:stable
+    container_name: nginx
+    ports:
+      - "80:8080"
+      - "443:8443"
+    volumes:
+      - ./docker-services/Nginx/core:/etc/nginx/conf.d
+      - ${PROJECT_FOLDER}:/var/www/
+      - ./docker-services/Nginx/Logs:/var/log/nginx/
+    working_dir: /var/www/
+    links:
+      - php
+
+  mysql:
+    image: mysql:5.7.29
+    ports:
+      - "3306:3306"
+    container_name: mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=root13#aspass
+      - MYSQL_DATABASE=release-1.0
+      - MYSQL_USER=release
+      - MYSQL_PASSWORD=root13#aspass
+    working_dir: /var
+    volumes:
+      - ${MYSQL_FOLDER}:/var/lib/mysql
+
+  php:
+    image: php:7.4-fpm-alpine
+    ports:
+      - "9000:9000"
+    build: docker-services/PHP/
+    container_name: php-fpm
+    volumes:
+      - ${PROJECT_FOLDER}:/var/www
+    working_dir: /var/www/
+    depends_on:
+      - mysql
+
+  php-cron:
+    image: php:7.4-alpine
+    ports:
+      - "9041:9041"
+    build: docker-services/PHPCron/
+    container_name: php-cron
+    volumes:
+      - ${PROJECT_FOLDER}:/var/www
+    working_dir: /var/www/
+    depends_on:
+      - mysql
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin
+    ports:
+      - "8090:80"
+    links:
+      - mysql:db
